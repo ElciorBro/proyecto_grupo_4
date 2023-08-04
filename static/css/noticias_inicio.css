@@ -1,0 +1,14 @@
+
+.noticias-container {
+    margin: 20px 50px;
+    padding: 20px 20px;
+}
+  
+  /* Estilos para el título y el margen superior */
+  .text-center {
+    text-align: center;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem;
+  }
