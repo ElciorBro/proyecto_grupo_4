@@ -105,31 +105,18 @@ body {
   transition: transform calc(var(--d) * 2) var(--e), -webkit-transform calc(var(--d) * 2) var(--e);
 }
 .card:nth-child(1):before {
-  background-image: url(../img/1.jpg);
-}
-.card:nth-child(2):before {
   background-image: url(../img/2.jpg);
 }
-.card:nth-child(3):before {
+.card:nth-child(2):before {
   background-image: url(../img/3.jpg);
 }
-.card:nth-child(4):before {
-  background-image: url(../img/4.jpg);
-}
-
-
-.card:nth-child(5):before {
+.card:nth-child(3):before {
   background-image: url(../img/5.jpg);
 }
-.card:nth-child(6):before {
+.card:nth-child(4):before {
   background-image: url(../img/6.jpg);
 }
-.card:nth-child(7):before {
-  background-image: url(../img/7.jpg);
-}
-.card:nth-child(8):before {
-  background-image: url(../img/8.jpg);
-}
+
 
 
 .content {
