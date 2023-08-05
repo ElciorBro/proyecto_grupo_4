@@ -11,7 +11,7 @@ def home(request):
                'noticia_2': noticias[2],
                'noticia_3': noticias[3]}
     
-    return render(request, 'home.html', context)
+    return render(request, 'templates/home.html', context)
 
 
 def nosotros(request):
