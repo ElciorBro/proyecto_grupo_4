@@ -18,7 +18,7 @@ from django.urls import reverse_lazy
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-
+print(BASE_DIR)
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-aj_(_@oan!gh^ht-p5-y@o5yyp)ubzm9n=&=#0)mk!$21=9=cy'
